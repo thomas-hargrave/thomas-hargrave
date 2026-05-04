@@ -1,0 +1,9 @@
+on: { schedule: [{ cron: '17 5 * * *' }], workflow_dispatch: }
+permissions: { contents: write }
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: KeizerSec/Tryhackme-Badge@v1
+        with: { username: ThomasHargrave }
