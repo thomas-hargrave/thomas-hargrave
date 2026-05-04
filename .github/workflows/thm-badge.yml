@@ -6,4 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: KeizerSec/Tryhackme-Badge@v1
-        with: { username: ThomasHargrave }
+        with:
+          username: ThomasHargrave
+          theme: midnight
+          accent_color: "#FF6B35"
