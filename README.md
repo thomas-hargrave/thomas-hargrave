@@ -31,14 +31,10 @@ I was expecting you...I'm <a href="https://github.com/thomas-hargrave"> Thomas K
 <table width="100%" >
 <tr>
  
-  <td> <h3 align="center"> :zap: SKILLS </h3>   </td>
-  <td> 
-  <h3 align="center"> 📊  STATS </h3>
-  </td>
- 
+  <td> <h3 align="center"> :zap: SKILLS </h3>   </td> 
  </tr>
  <tr>
-    <td width="55%">
+    <td width="100%">
      
 #### Lanuages 
 
@@ -81,21 +77,7 @@ I was expecting you...I'm <a href="https://github.com/thomas-hargrave"> Thomas K
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
-    
-</td>
-    <td>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adilrahman&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
- </br>
-  </br>
- <img src ="https://github-readme-streak-stats.herokuapp.com?user=adilrahman&theme=darcula&hide_border=true&background=FFFFFF00">
- </br> </br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adilrahman&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css">
-</p>
-     
-  </td>
- </tr>
 </table>
 <br>
 
@@ -106,8 +88,8 @@ I was expecting you...I'm <a href="https://github.com/thomas-hargrave"> Thomas K
 
 <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
- <a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/"  >connect with me</a><br><br>
-<a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/___i_am_iron_man/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/bitbyte_1337" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DEV.to"></a> <a href="https://medium.com/@adilrahman_1337" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="DEV.to"></a>
+ <a href="https://www.linkedin.com/in/thomas-kenneth-hargrave/"  >connect with me</a><br><br>
+<a href="https://www.linkedin.com/in/thomas-kenneth-hargrave/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </p>
 </div>
