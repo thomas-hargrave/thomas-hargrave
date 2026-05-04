@@ -6,7 +6,7 @@ I was expecting you...I'm <a href="https://github.com/thomas-hargrave"> Thomas K
 </p>
 <p align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Exploit+Developer;Penetration+Tester;Otaku;Gamer;Committed+to+lifelong+learning;TryHackMe+top+1%" width="415" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Exploit+Developer;Penetration+Tester;Otaku;Gamer;Committed+To+Lifelong+Learning;TryHackMe+Top+1%" width="415" />
    
 </p>
 
