@@ -50,6 +50,7 @@ I was expecting you...I'm <a href="https://github.com/thomas-hargrave"> Thomas K
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Nushell](https://img.shields.io/badge/-Nushell-000000?style=for-the-badge)
 ---
 
 #### Mobile & Web Application Development
