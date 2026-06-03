@@ -67,6 +67,11 @@ I was expecting you...I'm <a href="https://github.com/thomas-hargrave"> Thomas K
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+#### Consoles I Hack
+![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
+![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
 #### Mobile & Web Application Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
